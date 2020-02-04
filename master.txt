@@ -1,1 +1,2 @@
-this is master =
+this is masteri =
+master 파일 1차 수정
